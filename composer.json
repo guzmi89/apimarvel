@@ -1,0 +1,13 @@
+{
+    "name": "guzmi89/apimarvel",
+    "description": "Api que devuelve información sobre el universo Marvel",
+
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.5",
+        "tuupola/slim-jwt-auth": "^3.5",
+        "tuupola/cors-middleware": "^1.0",
+        "vlucas/phpdotenv": "^5.4",
+        "rbdwllr/reallysimplejwt": "^5.0"
+    }
+}
